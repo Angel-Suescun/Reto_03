@@ -1,4 +1,4 @@
-# Reto_03
+
 # Reto #03
 
 Este código define varias clases geométricas en Python:
